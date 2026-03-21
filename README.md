@@ -124,6 +124,7 @@ This section covers comprehensive data management approaches for LLMs, including
 - [CommonCrawl](https://commoncrawl.org/) - A massive web crawl dataset covering diverse languages and domains. (2008)
 - [RedPajama](https://github.com/togethercomputer/RedPajama-Data) - An open-source reproduction of the LLaMA training dataset. (2023)
 - [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) - A large-scale, high-quality web dataset for language model training. (2024)
+- [Dokime](https://github.com/dokime-ai/dokime) - An open-source CLI toolkit for scoring, filtering, deduplicating, and diagnosing ML training data quality. (2026)
 
 ### Cognition Engineering & Test-Time Scaling
 
