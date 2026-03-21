@@ -56,6 +56,7 @@ This section covers data quality for traditional structured and unstructured dat
 - [Evidently](https://github.com/evidentlyai/evidently) - An open-source ML monitoring framework for data drift detection. (2021)
 - [TensorFlow Data Validation (TFDV)](https://www.tensorflow.org/tfx/data_validation/get_started) - A library for exploring and validating ML data at scale. (2018)
 - [Deepchecks](https://github.com/deepchecks/deepchecks) - A Python package for validating ML models and data. (2021)
+- [Provero](https://github.com/provero-org/provero) - A vendor-neutral, declarative data quality engine. Define checks in YAML and run anywhere. (2026)
 
 ### Data Readiness Assessment
 
